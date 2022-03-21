@@ -1,6 +1,5 @@
 import os
 os.environ["CUDA_VISIBLE_DEVICES"]="-1"    
-os.chdir("C:/Users/nandi/OneDrive - Siemens Energy/Master/BipedalWalker/SAC Abgabe")
 import gym
 import numpy as np
 from agent import Agent
