@@ -1,6 +1,6 @@
 import os
 os.environ["CUDA_VISIBLE_DEVICES"]="-1"
-os.chdir("C:/Users/nandi/OneDrive - Siemens Energy/Master/BipedalWalker/SAC Abgabe")
+os.chdir("C:/Users/nandi/") # Change to your Folder
 import gym
 import numpy as np
 import time
